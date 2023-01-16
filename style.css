@@ -358,8 +358,13 @@ li a:hover{
     background-color: #FFFFFF;
     border-radius: 5px;
     padding: 20px 36px 20px 36px;
+    transition: 1s;
 }
 
+.subscribe-btn:hover{
+    font-size: 20.5px;
+    cursor: pointer;
+}
 /*  Copy-write styles  */
 
 .copy-write {
